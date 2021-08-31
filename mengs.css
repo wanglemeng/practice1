@@ -4,10 +4,8 @@
 #paragraph1 {
     background: green;
     color:aqua;
-    border: 20px, 40px, 20px, 40px;
-    border-radius: 90%;
-    margin: 20px;
     position: relative;
+    padding: 5px, -50px, 10px, 10px;
 }
 
 #paragraph2 {
