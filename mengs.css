@@ -11,6 +11,7 @@
 .paragraph2 {
     background: --background;
     color:red !important;
+    radius: 50%;
 }
 
 .paragraph3 {
