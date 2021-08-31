@@ -9,8 +9,9 @@
 }
 
 #paragraph2 {
-    background: --background;
+    background: green;
     color:red !important;
+    color:green;
     
 }
 
