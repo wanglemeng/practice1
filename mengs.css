@@ -28,6 +28,10 @@ ul {
     height: 50px;
     border-radius: 50%;
     box-shadow: 15px 15px 0 0 green;
+    animation-timing-function: linear;
+    animation-direction: right;
+    animation-delay: 0s;
+
  }
 
 #questions {
@@ -39,6 +43,7 @@ ul {
     color:blueviolet;
 }
 
-#button1 a:hover {
-    background: red;
+#button1 {
+    ahover: red;
+    background: blue;
 }
