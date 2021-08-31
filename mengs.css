@@ -1,5 +1,13 @@
 :root {
     --background:blue;
+
+#Navbar {
+    list-style: scroll;
+    margin: 0;
+    padding: 0;
+    background: blue; 
+}
+
 }
 #paragraph1 {
     background: green;
