@@ -1,7 +1,21 @@
 .paragraph1 {
     border: 20px, 40px, 20px, 40px;
-    margin: 20px ;
+    margin: 20px;
     background: green;
+    color:aqua;
+}
+
+.paragraph2 {
+    color:blue;
+    color:red !important;
+}
+
+.paragraph3 {
+    color:#00FF00;
+}
+
+.questions {
+    padding:top;
 }
 
 h1 {
