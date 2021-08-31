@@ -1,29 +1,30 @@
 :root {
     --background:blue;
 }
-.paragraph1 {
-    border: 20px, 40px, 20px, 40px;
-    margin: 20px;
+#paragraph1 {
     background: green;
     color:aqua;
+    border: 20px, 40px, 20px, 40px;
+    margin: 20px;
 }
 
-.paragraph2 {
+#paragraph2 {
     background: --background;
     color:red !important;
-    radius: 50%;
+    border-radius: 50%;
 }
 
-.paragraph3 {
+#paragraph3 {
     color:#00FF00;
 }
 
-.questions {
+#questions {
     padding:top;
 }
 
-h1 {
+.title1 {
     font-family: Roboto;
+    color:blueviolet;
 }
 p {
 color: red ;
