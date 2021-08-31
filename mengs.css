@@ -1,12 +1,14 @@
-:root {
-    --background:blue;
 
-
-
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
+
+
 #paragraph1 {
     background: green;
-    color:aqua;
+    color: blue;
     padding: 5px -50px 10px 10px;
 }
 
