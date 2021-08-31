@@ -1,8 +1,9 @@
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+.topbar {
+    background-color: purple;
+    list-style-type: none;
+    display: inline-block;
+    float: left;
 }
 
 
